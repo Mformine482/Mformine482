@@ -6,7 +6,7 @@
 - 📫 How to reach me **mformine482@custombots.net**
 
 - ⚡ Fun fact **I think I am not funny**
-- Visit [JNSP](https://github.com/jnsp-vsc)
+- 🌐 Visit [JNSP](https://github.com/jnsp-vsc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
