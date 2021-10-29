@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marius</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A passionate backend developer from Germany</h3>
 
 - 🔭 I’m currently working on Java [TS3AntiVPN](https://github.com/482Projects/TS3AntiVpn)
 
