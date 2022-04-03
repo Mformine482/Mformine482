@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently working on Java [TS3AntiVPN](https://github.com/482Projects/TS3AntiVpn)
 
-- 📫 How to reach me **mformine482@custombots.net**
+- 📫 How to reach me **marius@482-projects.com**
 
 - ⚡ Fun fact **I think I am not funny**
-- 🌐 Visit [JNSP](https://github.com/jnsp-vsc)
+- 🌐 Visit [JNSP](https://github.com/jnspleet)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
